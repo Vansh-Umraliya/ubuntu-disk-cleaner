@@ -38,3 +38,6 @@ All with a clean, emoji-based terminal output — easy to read, fun to use 😄
    ```bash
    git clone https://github.com/Vansh-Umraliya/ubuntu-disk-cleaner.git
    cd ubuntu-disk-cleaner
+2.⚙️ Make the script executable and run it with root permissions:
+   chmod +x clean_disk.sh
+   sudo ./clean_disk.sh
