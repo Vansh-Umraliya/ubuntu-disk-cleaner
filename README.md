@@ -1,4 +1,5 @@
 
+
 ---
 
 ```markdown
@@ -84,6 +85,44 @@ Filesystem      Size  Used Avail Use% Mounted on
 ## 📎 License
 
 This script is released under the MIT License.
+
+---
+
+## 💬 Contributing
+
+Thank you for considering contributing to this project! We welcome all contributions that improve the script, documentation, or overall project quality.
+
+### 🛠️ Ways to Contribute
+
+- 🔍 Find and report bugs
+- ✍️ Improve or optimize the script
+- 🧹 Add new safe cleanup features
+- 📝 Improve this documentation
+- 🌐 Fix typos or grammar
+- 📦 Test on different Ubuntu versions
+
+### 📋 How to Contribute
+
+1. **Fork this repository**
+2. **Create a new branch** for your changes:
+   ```bash
+   git checkout -b your-feature-name
+   ```
+3. **Make your changes** and commit:
+   ```bash
+   git commit -m "Your clear and descriptive commit message"
+   ```
+4. **Push to your forked repo**:
+   ```bash
+   git push origin your-feature-name
+   ```
+5. **Open a Pull Request** describing what you changed and why
+
+### ✅ Contribution Guidelines
+
+- Keep the code **clean, readable, and safe** (no risky deletions)
+- Use **descriptive commit messages**
+- If you're suggesting something major, please **open an issue first** to discuss it
 
 ---
 
