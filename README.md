@@ -30,14 +30,18 @@ All with a clean, emoji-based terminal output — easy to read, fun to use 😄
 ✅ Shows disk usage before & after cleanup  
 ✅ Works on all Ubuntu versions (18.04+)
 
----
-
+```markdown
 ## 🛠️ How to Use
 
-1. 📥 Clone this repo:
+1. 📥 Clone this repo and navigate into it:
    ```bash
    git clone https://github.com/Vansh-Umraliya/ubuntu-disk-cleaner.git
    cd ubuntu-disk-cleaner
-2.⚙️ Make the script executable and run it with root permissions:
+   ```
+
+2. ⚙️ Make the script executable and run it with root permissions:
+   ```bash
    chmod +x clean_disk.sh
    sudo ./clean_disk.sh
+   ```
+
